@@ -1,0 +1,3 @@
+/root/Desktop/test3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/Desktop/test3/cmake-build-debug/CMakeFiles/test3.dir
+/root/Desktop/test3/cmake-build-debug/CMakeFiles/edit_cache.dir
